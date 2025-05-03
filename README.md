@@ -4,7 +4,7 @@ I'm an undergrad Data Science and Analytics student passionate about building da
 
 ## 🚀 What I'm Working On
 - 🌱 Building **AgriGenius**, an AI-powered assistant for farmers.
-- 💡 A model for **stock trend analysis**,Researching stock market trends using technical indicators.
+- 💡 **stock trend analysis**,a project on Researching stock market trends using technical indicators.
 - 🧠 Learning advanced **Python, statistics, and machine learning concepts**.
 - 💼 Preparing for **roles in Data Science & ML Engineering**.
 
