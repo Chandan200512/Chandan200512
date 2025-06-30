@@ -27,7 +27,7 @@ I'm an undergrad Data Science and Analytics student passionate about building da
 ## 📫 How to reach me ...
 - 📧 Email: prince.chandugowda07@gmail.com
 - 💬 LinkedIn: www.linkedin.com/in/chandan-ng-a16979278
-- 🌐 Portfolio: http://127.0.0.1:5500/index.html
+- 🌐 Portfolio: https://velvety-monstera-b404d1.netlify.app/
 
 ## Thanks for stopping by! 😊
 
